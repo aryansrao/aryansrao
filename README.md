@@ -1,4 +1,8 @@
-<img src="banner.jpg" alt="GitHub Banner"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.jpg" />
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.jpg" />
+  <img src="banner-light.jpg" alt="GitHub Banner"/>
+</picture>
 
 #
 ![GitHub followers](https://img.shields.io/github/followers/aryansrao)
