@@ -11,14 +11,11 @@
   <a href="https://linkedin.com/in/aryansrao" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&labelColor=111111&color=000000" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/aryansrao" style="text-decoration:none;">
+  <a href="https://twitter.com/aryan_s_rao" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/aryansrao" style="text-decoration:none;">
+  <a href="https://instagram.com/aryan_s_rao" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/aryansrao" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&labelColor=111111&color=000000" alt="GitHub"/>
   </a>
   <a href="https://buymeacoffee.com/aryansrao" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Buy Me a Coffee"/>
