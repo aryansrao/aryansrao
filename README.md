@@ -1,10 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.jpg" />
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.jpg" />
-  <img src="banner-light.jpg" alt="GitHub Banner"/>
+  <img src="banner.jpg" alt="GitHub Banner"/>
 </picture>
 
 <div align="center">
+  <a href="https://aryansrao-blogs.leapcell.app" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Blogs-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Blogs"/>
+  </a>
   <a href="https://aryansrao.github.io" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Portfolio"/>
   </a>
