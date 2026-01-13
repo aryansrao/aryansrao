@@ -13,6 +13,12 @@
   <a href="https://aryansrao.github.io" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Portfolio"/>
   </a>
+  <a href="https://dev.to/aryansrao" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/dev.to-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Portfolio"/>
+  </a>
+  <a href="https://medium.com/@aryansrao" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/medium-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/aryansrao" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&labelColor=111111&color=000000" alt="LinkedIn"/>
   </a>
