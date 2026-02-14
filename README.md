@@ -7,10 +7,7 @@
 </picture>
 
 <div align="center">
-  <a href="https://aryansrao-blogs.leapcell.app" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Blogs-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Blogs"/>
-  </a>
-  <a href="https://aryansrao.github.io" style="text-decoration:none;">
+  <a href="https://aryansrao.leapcell.app" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Portfolio"/>
   </a>
   <a href="https://dev.to/aryansrao" style="text-decoration:none;">
