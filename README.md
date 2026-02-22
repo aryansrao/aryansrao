@@ -1,6 +1,3 @@
-<picture>
-  <img src="banner.png" alt="GitHub Banner"/>
-</picture>
 
 <picture>
   <img src="https://readme-badge.vercel.app/api/card?username=aryansrao" alt="GitHub Stats" />
