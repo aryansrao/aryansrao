@@ -1,18 +1,31 @@
-# Aryan S Rao
 
-I build software across the whole stack — from an operating-system kernel in Rust to Next.js applications — and I learn by shipping. Final-year Computer Science student; open to internships, full-time roles and freelance work.
+<picture>
+  <img src="https://readme-badge.vercel.app/api/card?username=aryansrao" alt="GitHub Stats" />
+</picture>
 
-**Currently building:**
+<div align="center">
+  <a href="https://aryansrao.leapcell.app" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Portfolio"/>
+  </a>
+  <a href="https://dev.to/aryansrao" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/dev.to-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Portfolio"/>
+  </a>
+  <a href="https://medium.com/@aryansrao" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/medium-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/aryansrao" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&labelColor=111111&color=000000" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/aryan_s_rao" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/aryan_s_rao" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&labelColor=111111&color=000000" alt="Instagram"/>
+  </a>
+</div>
 
-- **[Vev](https://github.com/aryansrao/vev-website)** — a privacy-first desktop browser: Rust + CEF, on-device AI phishing detection, Tor integration, fingerprint resistance. In development.
-- **Gini** — an open-source AI calling platform: autonomous voice agents with CRM and analytics. Launching soon.
-- **[CottonOS](https://github.com/aryansrao/CottonOS)** — a hobby OS kernel in Rust that boots, runs a graphical desktop, and browses the web over in-kernel TLS.
-
-**Core stack:** Rust · TypeScript · Python · Next.js/React · systems programming · WebRTC
-
-**Elsewhere:** [portfolio](https://aryansrao.vercel.app) · [LinkedIn](https://linkedin.com/in/aryansrao) · [X](https://twitter.com/aryan_s_rao) · aaryansrao5@gmail.com
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aryansrao&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansrao&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="160"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryansrao/aryansrao/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryansrao/aryansrao/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aryansrao/aryansrao/output/github-snake.svg" />
+</picture>
